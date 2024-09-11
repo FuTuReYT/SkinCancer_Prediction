@@ -10,10 +10,6 @@ Skin cancer is a major health concern, and early detection significantly improve
 
 The ultimate goal is to develop a binary classification model that can be used in primary care or non-clinical settings to triage patients for further specialized care.
 
-### Key Dates:
-- **Start**: 2 months ago
-- **Close**: 4 days ago
-
 ### Evaluation:
 Submissions were evaluated using **partial area under the ROC curve (pAUC)**, focusing on the area above a **true positive rate (TPR) of 80%**. This scoring metric prioritizes high sensitivity, as the goal is to detect as many true malignant cases as possible.
 

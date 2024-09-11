@@ -1,5 +1,3 @@
-Here’s a draft for your README file:
-
 ---
 
 # ISIC 2024 Skin Cancer Detection with tf_efficientnetv2_b0 and LightGBM

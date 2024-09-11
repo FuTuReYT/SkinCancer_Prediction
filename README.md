@@ -29,6 +29,8 @@ The final score for each submission was constrained to a range between [0.0, 0.2
 - ISIC 2024 ImageNet Gen 2 Outputs
 - ISIC 2024 Tabular Feature Generation
 - ISIC 2024 LGBM+ImageNet Out-of-Fold Predictions (train)
+- ![image](https://github.com/user-attachments/assets/b26f3a84-0dcf-440d-9760-37e36c3d5031)
+
 
 ### Final Scores:
 - **Public Leaderboard**: 0.185
